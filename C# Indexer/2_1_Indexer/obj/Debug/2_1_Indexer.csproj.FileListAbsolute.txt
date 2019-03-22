@@ -1,0 +1,7 @@
+C:\Users\tejas.kulkarni\source\repos\2_1_Indexer\2_1_Indexer\bin\Debug\2_1_Indexer.exe.config
+C:\Users\tejas.kulkarni\source\repos\2_1_Indexer\2_1_Indexer\bin\Debug\2_1_Indexer.exe
+C:\Users\tejas.kulkarni\source\repos\2_1_Indexer\2_1_Indexer\bin\Debug\2_1_Indexer.pdb
+C:\Users\tejas.kulkarni\source\repos\2_1_Indexer\2_1_Indexer\obj\Debug\2_1_Indexer.csprojAssemblyReference.cache
+C:\Users\tejas.kulkarni\source\repos\2_1_Indexer\2_1_Indexer\obj\Debug\2_1_Indexer.csproj.CoreCompileInputs.cache
+C:\Users\tejas.kulkarni\source\repos\2_1_Indexer\2_1_Indexer\obj\Debug\2_1_Indexer.exe
+C:\Users\tejas.kulkarni\source\repos\2_1_Indexer\2_1_Indexer\obj\Debug\2_1_Indexer.pdb
